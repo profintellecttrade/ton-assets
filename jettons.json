@@ -739,6 +739,21 @@
   "symbol": "DUCK"
  },
  {
+  "address": "EQAst_WeG36CEhCoW6mOg4FU5nctQcgRvp7FYuNkxfwKS5UC",
+  "description": "The token that took 1 place in the BlumMemePad Best Token Competition. DURKA is something that is often done in the crypto market.",
+  "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/LOGO_DURKA.png",
+  "name": "DURKA",
+  "social": [
+   "https://t.me/durkatoken",
+   "https://x.com/DurkaToken",
+   "https://www.youtube.com/channel/UCOCRvYxXQmuCOiFNuGUiFgg"
+  ],
+  "symbol": "DURKA",
+  "websites": [
+   "https://www.durka.org"
+  ]
+ },
+ {
   "address": "EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et",
   "description": "$DUROV is a community-driven project, inspired by Pavel Durov - the founder of Telegram. Explore our Airdrop bot, our NFT collection, or even our Staking platform!",
   "image": "https://i.postimg.cc/Sshx4fq4/2024-05-29-10-13-59.jpg",
@@ -3243,16 +3258,6 @@
   "symbol": "OKO"
  },
  {
-  "address": "EQDW0wojDImjtJ-z88TmAdgVBPW8vQs2mqK-w5poyA-dowPd",
-  "name": "SOKOROCKET",
-  "symbol": "FROY"
- },
- {
-  "address": "EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_",
-  "name": "Memeerkat",
-  "symbol": "MKAT"
- },
- {
   "address": "EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728",
   "decimals": 6,
   "description": "USDC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -4376,11 +4381,6 @@
   "address": "0:576ed808a1cbdbd741902959d08d942ac77b578c68c1599c92f1f87661c1dbb0",
   "name": "MuscleCare",
   "symbol": "MCL"
- },
- {
-  "address": "0:a2bd285efa78a031a9c08a5f22471c0ab29ef8700d2ad1ad349263c1b4b7d11d",
-  "name": "Mihaylets Community",
-  "symbol": "MCOM"
  },
  {
   "address": "0:de5cbf52f80a467ac4146c12d88b64464bd52959f00118017c8c40e1ffa5d08c",
@@ -6098,6 +6098,16 @@
   "symbol": "uTON",
   "websites": [
    "https://utonic.org"
+  },
+ {
+  "address": "0:7e4f0471816b202cb1d4a8d95734946f04a3f9d82a7d6b953fcfad3b1b3403a1",
+  "description": "DANDY Alligator is a platform gaming token.",
+  "image": "https://i.postimg.cc/nr2WbqYb/photoaidcom-photoaid-remove-background.png",
+  "name": "DANDY",
+  "social": [
+   "https://t.me/dandy_community"
+   ],
+  "symbol": "DND",
   ]
  }
-]
+ }
